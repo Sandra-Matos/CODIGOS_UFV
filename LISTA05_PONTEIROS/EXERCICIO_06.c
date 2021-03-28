@@ -4,3 +4,5 @@
 //b) *q = &j; f) i = (*p)++ + *q;
 //c) p = &*&i;
 //d) i = (*&)j;
+
+// Alternativa f.

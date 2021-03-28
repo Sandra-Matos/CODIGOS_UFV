@@ -8,3 +8,10 @@
 //c) ao se executar *pti = 20; i passará a ter o valor 20
 //d) ao se alterar o valor de i, *pti será modificado
 //e) pti é igual a 10
+
+//RESPOSTA:
+//A = VERDADEIRO
+//B = VERDADEIRO
+//C = VERDADEIRO
+//D = VERDADEIRO
+//E = FALSO, pti tem o valor do endereço de i.
