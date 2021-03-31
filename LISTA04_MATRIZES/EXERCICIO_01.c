@@ -1,6 +1,6 @@
 // Faça um algoritmo para ler valores reais e armazenar em uma matriz 5x5 e
 //depois salvar em outra matriz, também 5x5, o resultado do cubo dos
-//valores originais, nas mesmas posições.
+//valores originais, nas mesmas posições. !
 #include <stdio.h>
 #include <stdlib.h>
 #include<math.h>
