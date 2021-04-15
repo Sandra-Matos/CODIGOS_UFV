@@ -1,0 +1,11 @@
+//Crie uma matriz para armazenar as informações de N alunos de uma 
+//Universidade. Cada aluno será representado em uma linha da matriz. 
+//Para cada aluno, deverão ser armazenados a matrícula, o sexo (0 ou 1), 
+//o número do curso (1 a 5) e o coeficiente de rendimento (0 a 100 em 
+//valores inteiros). Faça um algoritmo que: 
+//a) Leia o valor N de alunos (N <= 2000) 
+//b) Leia as informações sobre os N alunos (matrícula, sexo, curso e 
+//coeficiente)
+//c) Mostre a média dos coeficientes para cada curso.
+//d) Mostre o número de matrícula e o sexo do aluno do curso 4 que 
+obteve o melhor coeficiente.
