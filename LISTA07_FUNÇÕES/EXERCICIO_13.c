@@ -90,7 +90,7 @@ void insere_contato_agenda(contato*agenda, int* qtd_contatos_agenda){
     printf("Digite o DDD do telefone: ");
     scanf("%s", agenda[*qtd_contatos_agenda].tel.ddd);
     printf("Digite o numero do telefone: ");
-    scanf("%s", agenda[*qtd_contatos_agenda].tel.numero]);
+    scanf("%s", agenda[*qtd_contatos_agenda].tel.numero);
 
     printf("\Digite a data de nascimento da pessoa: \n");
     printf("Digite o dia de nascimento: ");
